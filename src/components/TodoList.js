@@ -1,6 +1,6 @@
 import "./Todo.css";
 
-const Todo = ({ todo, index, completeTodo, removeTodo }) => {
+const Todo = () => {
     return (
         <div className="todo">
             <ul>
